@@ -1,7 +1,7 @@
 # crot-vod
 Crot VOD
 Contoh kategori :
-`c= action`
+`vod.php?c=action`
 
 
 	"categories": [{
